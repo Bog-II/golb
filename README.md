@@ -3,11 +3,11 @@ My repository containing my small blog of articles on various topics and my book
 
 # My small Golb.
 
-Place where I'm sharing my knowledge for others but primarily of my future myself.
+Place where I'm sharing my knowledge for others primarily my future me.
 
-Why suddenly starting this current small blog?
+Why suddenly create this blog?
 
-- Provide value to others. I believe everyone on the earth should provide value to others.
+- Provide value to others. I believe everyone should strive to provide value to others.
 - Improve my writing and literacy skills by forcing myself to write and learn new vocabulary.
     - Writing is an area I particularly would like to improve in.
 
